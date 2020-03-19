@@ -10,6 +10,7 @@
   "author": "Oswaldo Gómez",
   "license": "ISC",
   "dependencies": {
+    "express": "^3.1.0",
     "express-handlebars": "^3.1.0"
   }
 }
